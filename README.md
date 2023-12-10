@@ -1,16 +1,33 @@
-# htto_anwendung
+# http_anwendung
 
-A new Flutter project.
+Du möchtest eine App bauen, in der du auf Basis eines angegebenen Namens eine Alterseinschätzung erhältst. 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Folgende Funktionen sollen beinhaltet sein:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Namenseingabe
+- Senden
+- Ergebnis
+- Neustart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Zur Umsetzung kannst du die kostenlose und offene API von agify nutzen (https://agify.io/).
+
+
+Vorgaben:
+- Flutter als Framework
+- Architektur-Pattern deiner Wahl
+
+
+Probiere diesen kleinen Use-Case so realitätsnah wie möglich zu entwickeln, damit wir einen guten Einblick in dein Vorgehen erhalten.
+
+
+Folgende User Stories dienen als Abnahmekriterien:
+
+
+1. Als App-Nutzer möchte ich das geschätzte Alter zu einem eingegebenen Namen erfahren.
+2. Als App-Nutzer möchte ich die Einschätzung mit einem anderen Namen wiederholen können.
+
+
+Geschätzte Zeit: 6h
